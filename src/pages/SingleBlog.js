@@ -23,13 +23,11 @@ const SingleBlog = () => {
               <h3 className="title">A beautiful sunday morning renaissance</h3>
               <img src={blog} className="img-fluid w-100 my-4" alt="blog" />
               <p className="desc">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Mollitia quae ipsam in commodi veniam suscipit nisi laudantium,
-                excepturi reiciendis facere aperiam doloremque distinctio
-                praesentium voluptatum fuga ipsa sed inventore adipisci
-                recusandae veritatis! Facere praesentium, dicta accusamus quae,
-                deleniti officia, porro quod ipsum cupiditate sit optio
-                blanditiis. Earum aspernatur distinctio a.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Excepturi labore, neque consequatur minus nam quod soluta
+                blanditiis explicabo impedit dolor. Cum, deserunt hic tenetur
+                molestiae adipisci, eligendi eius dolore asperiores quisquam sed
+                ea laborum.
               </p>
             </div>
           </div>
